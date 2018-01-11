@@ -14,8 +14,8 @@ This shell can handle the following operators:
 - Pipe            "|"
 - Semicolon       ";"
 
-Fair warning: it might not handle all of these perfectly, i.e. multiple in conjunction. However it does pass all tests included, look
-to those for examples of what works.
+Fair warning: it might not handle all of these perfectly, i.e. multiple in conjunction. However it does pass all tests included (at least
+on my Debian VM), look to those for examples of what works.
 
 ## Usage
 This was compiled using GCC, so it expects that to work. To compile the files, simply run the following command (if make is installed)
